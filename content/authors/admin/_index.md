@@ -25,19 +25,16 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Indian Institute of Technology, Bombay
+    url: https://www.iitb.ac.in/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: BTech (Hons.) in Computer Science and Engineeing
+      institution: Indian Institute of Technology, Bombay
+      year: 2021
+    - course: Minor in Applied Statistics and Informatics
+      institution: Indian Institute of Technology, Bombay
+      year: 2019
 email: ""
 superuser: true
 highlight_name: true
