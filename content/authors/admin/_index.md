@@ -29,7 +29,7 @@ organizations:
     url: https://www.iitb.ac.in/
 education:
   courses:
-    - course: BTech (Hons.) in Computer Science and Engineeing
+    - course: BTech (Hons.) in Computer Science & Engg.
       institution: Indian Institute of Technology, Bombay
       year: 2021
     - course: Minor in Applied Statistics and Informatics
