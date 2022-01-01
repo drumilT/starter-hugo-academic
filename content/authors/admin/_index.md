@@ -35,7 +35,7 @@ education:
     - course: Minor in Applied Statistics and Informatics
       institution: Indian Institute of Technology, Bombay
       year: 2019
-email: ""
+email: drumiltrivedi@gmail.com
 superuser: true
 highlight_name: true
 ---
