@@ -1,7 +1,7 @@
 ---
 title: Drumil Trivedi
 role: Quantitative Researcher at AlphaGrep Securities
-avatar_filename: avatar-removebg-preview.png
+avatar_filename: passport_photo_drumil.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
