@@ -2,12 +2,12 @@
 title: Drumil Trivedi
 role: Quantitative Researcher at AlphaGrep Securities
 avatar_filename: passport_photo_drumil.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: My research interests include Natural Language Processing, Robotics and
+  Speech Recognition.
 interests:
+  - NLP
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Robotics
 social:
   - icon: envelope
     icon_pack: fas
@@ -39,9 +39,10 @@ email: ""
 superuser: true
 highlight_name: true
 ---
+Previously, I graduated from [IIT Bombay](https://www.iitb.ac.in/) with B.Tech in [Computer Science and Engineering](https://www.cse.iitb.ac.in/) and a Minor in Statistics. 
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+During my undergraduate studies, I was fortunate to have worked with Prof. [Sunita Sarawagi](https://www.cse.iitb.ac.in/~sunita/) and [Preethi Jyothi](https://www.cse.iitb.ac.in/~pjyothi/) on improving domain-specific words for long speeches, and with Prof. [Preethi Jyothi](https://www.cse.iitb.ac.in/~pjyothi/) on unsupervised disfluency correction with collaboration with IBM Research India.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I spent the summer of 2020 with [](https://research.google/teams/india-research-lab/)[Barzilay Group @MIT CSAIL](https://www.regina.csail.mit.edu/) working on Diverse Question Generation. In Summer 2019, I worked with Prof. [](http://mmcv.csie.ncku.edu.tw/~wtchu/)[Edward Chung](http://www.ee.polyu.edu.hk/en/people_detail.php?name=UlasKARAAGAC&cid=1&id=26002) on Origin Destination Matrix Prediction. I have also interned with the [Alistrah Group@IST Austria](https://ist.ac.at/en/research/alistarh-group/) in Winter 2019 and contributed to domain adaptation and built tuning pipelines at [Tvarit GmBh](https://www.tvarit.com/) in Winter 2018, Summer 2021.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
