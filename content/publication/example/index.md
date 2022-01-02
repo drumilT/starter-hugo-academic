@@ -32,7 +32,7 @@ image:
   caption: ""
   focal_point: ""
   preview_only: false
-  filename: disflu.png
+  filename: featured.png
 summary: We correct disfluencies from spoken text using unsupervised,
   semi-supervised learning and show our methods come close to supervised
   methods, in terms of BLEU score.
