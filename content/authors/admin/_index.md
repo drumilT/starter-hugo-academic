@@ -1,5 +1,4 @@
 ---
-title: Drumil Trivedi
 role: Quantitative Researcher at AlphaGrep Securities
 avatar_filename: avatar.jpg
 bio: My research interests include Natural Language Processing, Robotics and
@@ -8,6 +7,7 @@ interests:
   - NLP
   - Artificial Intelligence
   - Robotics
+  - Finance
 social:
   - icon: envelope
     icon_pack: fas
@@ -35,9 +35,10 @@ education:
     - course: Minor in Applied Statistics and Informatics
       institution: Indian Institute of Technology, Bombay
       year: 2019
-email: drumiltrivedi@gmail.com
 superuser: true
 highlight_name: true
+title: Drumil Trivedi
+email: drumiltrivedi@gmail.com
 ---
 Previously, I graduated from [IIT Bombay](https://www.iitb.ac.in/) with B.Tech in [Computer Science and Engineering](https://www.cse.iitb.ac.in/) and a Minor in Statistics. 
 
