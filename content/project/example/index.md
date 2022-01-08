@@ -3,12 +3,13 @@ slides: example
 url_pdf: ""
 summary: Generating speech from text in a manner that is posseses an underlying emotion
 url_video: ""
-date: 2016-04-27T00:00:00Z
+date: 2016-04-27T00:00:00.000Z
 external_link: ""
 url_slides: ""
 title: Emotion Conditioned Text to Speech
 tags:
-  - Deep Learning
+  - Speech
+  - Style Transfer
 links:
   - icon: github
     icon_pack: fab
