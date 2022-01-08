@@ -27,7 +27,7 @@ experience:
     company_url: ''
     company_logo: org-alpha
     location: Mumbai
-    date_start: '2021-10-06'
+    date_start: '2021-06-10'
     date_end: ''
     description: |2-
         Responsibilities include:
