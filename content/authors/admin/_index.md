@@ -46,6 +46,6 @@ During my undergraduate studies, I was fortunate to have worked with Prof. [Sun
 
 I spent the summer of 2020 with [](https://research.google/teams/india-research-lab/)[Barzilay Group @MIT CSAIL](https://www.regina.csail.mit.edu/) working on Diverse Question Generation. In Summer 2019, I worked with Prof. [](http://mmcv.csie.ncku.edu.tw/~wtchu/)[Edward Chung@HKPolyU](http://www.ee.polyu.edu.hk/en/people_detail.php?name=UlasKARAAGAC&cid=1&id=26002) on Origin-Destination Matrix Prediction. I have also interned with the [Alistrah Group@IST Austria](https://ist.ac.at/en/research/alistarh-group/) in Winter 2019 and contributed to domain adaptation and built tuning pipelines at [Tvarit GmBh](https://www.tvarit.com/) in Winter 2018, Summer 2021.
 
-I am also a part of the [Mensa, the High IQ Society](https://www.mensa.org/) , and am always to connect with fellow Mensans.
+I am also a part of [Mensa, the High IQ Society](https://www.mensa.org/) , and am always eager to connect with fellow Mensans.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Drumil_Trivedi_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
